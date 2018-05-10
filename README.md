@@ -1,5 +1,5 @@
 # mockup-to-article
-This is a simple one page html mockup.
+Practice HTML syntax by converting a mockup of a blog article into a real website!
 
 ## License
 
