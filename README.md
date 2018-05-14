@@ -1,8 +1,6 @@
 # mockup-to-article
 Practice HTML syntax by converting a mockup of a blog article into a real website!
 
-![mockup](https://github.com/weekendchow/mockup-to-article/blob/master/blog-mockup.pdf)
-
 
 ## License
 
